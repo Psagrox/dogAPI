@@ -9,6 +9,8 @@ Allow saving dogs as favorites.
 View and delete dogs from the favorites list.
 Integrated with Swiper for displaying dogs in an interactive carousel.
 Designed with Tailwind CSS for modern and responsive styling.
+
+
 Technologies Used:
 
 #HTML
