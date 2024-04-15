@@ -17,7 +17,10 @@ Technologies Used:
 CSS (with Tailwind CSS)
 JavaScript
 TheDogAPI
+
+
 Credits:
+
 Solution by Walter Javier Galván
 
 #License:
