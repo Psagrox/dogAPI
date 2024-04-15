@@ -24,5 +24,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgements:
 
 Swiper for interactive carousel.
+
 Tailwind CSS for modern and responsive styling.
+
 Thank you for checking out the Favorite Dogs Project! 🐾🐶
